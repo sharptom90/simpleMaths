@@ -12,6 +12,8 @@ class simpleMaths {
 
 }
 
+/*Added a comment*/
+
 class simpleMathsSpec extends FunSuite with Matchers{
 
   val result = new simpleMaths
